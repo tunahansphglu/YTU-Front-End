@@ -1,0 +1,37 @@
+*{
+    font-family: Raleway;
+
+}
+
+nav{
+    float: center;
+    font-size: small;
+}
+
+header{
+    background-color: #3da968;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+#head-click h2{
+    text-align: center;
+}
+
+.urun {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .urun img {
+    width: 100%;
+  }
+
+  footer {
+    text-align: center;
+    padding: 10px;
+  }
